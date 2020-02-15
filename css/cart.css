@@ -1,0 +1,28 @@
+.bord{width: 40px;
+	height: 40px;
+background-color: grey;
+border-radius: 50%;
+text-align: center;
+color: white;
+padding-top: 10px
+
+}
+
+.free{border:5px black solid;
+		width: 100px;
+		height: 50px;
+		float: right;
+		margin-top: -10px}
+.tee{height: 4px;
+	width: 40px;
+	background-color: orange;
+	margin: auto;
+}
+
+.grey{color: grey}
+
+.button{ background-color: #e54508;
+color: white ;
+border-color: #e54508;}
+
+.code{color: grey}
